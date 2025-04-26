@@ -1,7 +1,6 @@
 # Privacy_Project_add_ablation
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -11,7 +10,6 @@
 - [Project Structure](#project-structure)
 - [Notes](#notes)
 - [Results Preview](#results-preview)
-- [License](#license)
 
 ## Introduction
 This project focuses on **instance-optimal sum estimation** under **Local Differential Privacy (LDP)**.  
@@ -91,5 +89,4 @@ Example plots:
 - Error vs. Privacy Budget
 - Runtime comparisons
 - Impact of ablation settings on accuracy
-
 
